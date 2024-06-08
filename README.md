@@ -9,7 +9,9 @@ User Can Launch The Program In Multiple Modes; One Of These Being A Server Mode 
 
 **The Breakdown:**
 
-Lorem
+Program Works With A Terminal In Order To Do Transactions Amongst A Host And Clients Concurrently Through Multithreading.
+
+
 
 <img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49">
 
