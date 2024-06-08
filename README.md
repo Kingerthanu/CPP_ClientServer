@@ -1,5 +1,5 @@
 # CPP_ClientServer
-Program Using Socket Transactions On A Server-Side Database To Allow Clients Reliable Reads And Writes
+User Can Launch The Program In Multiple Modes; One Of These Being A Server Mode In Which Will Establish A Accepting Socket For Clients To Request From. The Other Modes Are Client-Side And Work On Reads Of A Given File Path, Checks On The File Path, Deletion Of A Given File Path, As Well As STDIO Reads And Then Writes To The Server Through A Byte Stream.
 
 
 ----------------------------------------------------------------------------
