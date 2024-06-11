@@ -15,7 +15,7 @@ The Program Starts By Calling It With An Attached Mode In Which Will Specifify T
 
 There Will Be 1 Main Mode That Must Be Active In Order For The Others To Properly Work In Which Is The Server; The Server Will Arbitraily Ping A Port In Which To Bind The Processes' To, Creating A Listening Socket And Printing It. This Socket Will Work To Listen For A Incoming Request From A Client In Which Wants To Do A Transaction. The Server When Hearing A Connection Through Its Listen(...) Will Then Wait Until The Client Provides A Byte Stream Of The Given Mode And Its Size. With This Mode The Server Process Will Interpolate What Type Of Request The Client Is Trying To Do. This Could Be:
 
-  - read \<IP\> \<Socket\> \<File Path\>: This Mode Will Allow A Client To Request The Server To Look Through Its Relative Directory For The Given File Path. With This File--If Created--Will Provide The Client With A Byte-Stream Of The Files Contents And Print Out The Contents.
+  - load \<IP\> \<Socket\> \<File Path\>: This Mode Will Allow A Client To Request The Server To Look Through Its Relative Directory For The Given File Path. With This File--If Created--Will Provide The Client With A Byte-Stream Of The Files Contents And Print Out The Contents.
 
   - check \<IP\> \<Socket\> \<File Path\>: This Mode Will Allow A Client To Request The Server To Look Through Its Relative Directory For The Given File Path And If It's Currently Created Will Tell The User Through A Simple Byte-Boolean.
 
