@@ -19,6 +19,10 @@ There Will Be 1 Main Mode That Must Be Active In Order For The Others To Properl
 
   - check \<IP\> \<Socket\> \<File Path\>: This Mode Will Allow A Client To Request The Server To Look Through Its Relative Directory For The Given File Path And If It's Currently Created Will Tell The User Through A Simple Byte-Boolean.
 
+ - delete \<IP\> \<Socket\> \<File Path\>: This Mode Will Allow A Client To Request The Server To Look Through Its Relative Directory For The Given File Path And If It's Currently Created Will Delete The File From The Server's Relative Directory And Tell The User Through A Simple Byte-Boolean.
+
+ - store \<IP\> \<Socket\> \<File Path\>: This Mode Will Allow A Client To Request The Server To Look Through Its Relative Directory For The Given File Path And If It's Currently Created Will Create A File Under That File Path. The Client Will Then Write From STDIO Their Input In Which Will Be Communicated By The Server Through Byte-Streams On A Line-By-Line Basis Until The User Inputs A EOF Character.
+
 <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------------------------------------
