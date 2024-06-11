@@ -15,8 +15,7 @@ The Program Starts By Calling It With An Attached Mode In Which Will Specifify T
 
 There Will Be 1 Main Mode That Must Be Active In Order For The Others To Properly Work In Which Is The Server; The Server Will Arbitraily Ping A Port In Which To Bind The Processes' To, Creating A Socket And Printing It. This Socket Will Work To Listen For A Incoming Request From A Client In Which Wants To Do A Transaction. The Server When Hearing A Connection Through Its Listen(...) Will Then Wait Until The Client Provides A Byte Stream Of The Given Mode And Its Size. With This Mode The 
 
-
-<img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/06f25a05-7be6-41a6-81ee-0f746b3fa527" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/06f25a05-7be6-41a6-81ee-0f746b3fa527" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/06f25a05-7be6-41a6-81ee-0f746b3fa527" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/06f25a05-7be6-41a6-81ee-0f746b3fa527" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------------------------------------
 
@@ -27,3 +26,6 @@ There Will Be 1 Main Mode That Must Be Active In Order For The Others To Properl
 
 Client Requesting A Invalid Mode & Writing From STDIO Into A File Path & Reading From Server The File Wrote In:
 ![2024-06-0812-19-17-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/dd7819df-1ec2-434d-a094-0c8e892ee41c)
+
+
+<img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/96b54435-9884-4edd-82cb-0b2ac7bd75ef" alt="Cornstarch <3" width="55" height="49">
