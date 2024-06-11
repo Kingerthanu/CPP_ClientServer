@@ -1,4 +1,3 @@
-// Benjamin R. Spitzauer
 // p4.cpp
 
 #include <iostream>
