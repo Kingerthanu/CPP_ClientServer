@@ -27,6 +27,8 @@ There Will Be 1 Main Mode That Must Be Active In Order For The Others To Properl
 
 The Server Also Can Be Shutdown With A CTRL + C Input; This Will Shutdown All Detached Server Threads And Will Communicate With The User The Shutdown Of The Server.
 
+The Client Will Need To Launch The Process Of This Program With The Simple Appension Of The Mode Type In Place Of The 'server' During The Calling Of The Program. Other Than These Modes, The Server Will Tell The User Of A Invalid Transaction Mode Type And Their Client Process Will Terminate.
+
 <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------------------------------------
