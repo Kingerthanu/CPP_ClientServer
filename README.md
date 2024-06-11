@@ -9,7 +9,7 @@ User Can Launch The Program In Multiple Modes; One Of These Being A Server Mode 
 
 **The Breakdown:**
 
-Program Works With A Terminal In Order To Do Transactions Amongst A Host And Clients On File Directories Concurrently Through Multithreading.
+Program Works With A Terminal In Order To Do Transactions Amongst A Host Server And Clients On File Directories Concurrently Through Multithreading.
 
 The Program Starts By Calling It With An Attached Mode In Which Will Specifify The Specific Pipeline This Process Will Run Through. If The Mode Is Not One Of The Ones Specified Below, It Will Inform The User Of It Being Invalid And Terminating The Process.
 
