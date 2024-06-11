@@ -23,6 +23,10 @@ There Will Be 1 Main Mode That Must Be Active In Order For The Others To Properl
 
  - store \<IP\> \<Socket\> \<File Path\>: This Mode Will Allow A Client To Request The Server To Look Through Its Relative Directory For The Given File Path And If It's Currently Created Will Create A File Under That File Path. The Client Will Then Write From STDIO Their Input In Which Will Be Communicated By The Server Through Byte-Streams On A Line-By-Line Basis Until The User Inputs A EOF Character.
 
+ - client \<IP\> \<Socket\>: This Mode Will Work By Asking The Client For A Single Line From STDIO And Will Communicate The Contents Of This Input To The Server In Which Will Simply Echo This Content (Mainly Utilized For Debugging To Ensure Clean Transactions).
+
+The Server Also Can Be Shutdown With A CTRL + C Input; This Will Shutdown All Detached Server Threads And Will Communicate With The User The Shutdown Of The Server.
+
 <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ClientServer/assets/76754592/e75c904e-323b-449d-a9d9-4b50a4442a0d" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------------------------------------
