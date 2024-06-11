@@ -9,7 +9,11 @@ User Can Launch The Program In Multiple Modes; One Of These Being A Server Mode 
 
 **The Breakdown:**
 
-Program Works With A Terminal In Order To Do Transactions Amongst A Host And Clients Concurrently Through Multithreading.
+Program Works With A Terminal In Order To Do Transactions Amongst A Host And Clients On File Directories Concurrently Through Multithreading.
+
+The Program Starts By Calling It With An Attached Mode In Which Will Specifify The Specific Pipeline This Process Will Run Through.
+
+There Will Be 1 Main Mode That Must Be Active In Order For The Others To Properly Work In Which Is The Server; The Server Will Arbitraily Ping A Port In Which To Bind The Processes' To, Creating A Socket And Printing It. This Socket Will Work To Listen For A Incoming Request From A Client In Which Wants To Do A Transaction. The Server When Hearing A Connection Through Its Listen(...) Will Then Wait Until The Client Provides A Byte Stream Of The Given Mode And Its Size. With This Mode The 
 
 
 
